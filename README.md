@@ -25,7 +25,7 @@ The objective of this study is to analyze Ice Corporation's insights from histor
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
 (PORTUGUÊS)
 
-# Megaline Income Analysis 
+# Ice Games Analysis  
 
 Projeto de análise exploratória de dados sobre a empresa Ice.
 
